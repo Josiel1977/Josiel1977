@@ -4,7 +4,7 @@ Olá Sou Josiel, tenho 45 anos, trabalho como eletricista mas atualmente estou i
 <br>
  Estou iniciando, por isso ainda não completei meu README.
  <br>
- Tenho mujita vontade de aprender programação, assim como tenho faciliudade para aprender
+ Tenho muuita vontade de aprender programação, assim como tenho faciliudade para aprender.
 <br>
 <br>
 
